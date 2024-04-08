@@ -1,8 +1,12 @@
-img{ class=”futebol1” scr=”./img/alurastart logo 1.png”
-}
+.cabecalho-imagem{
+    width: 20%;
+    }
 
-
-
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    }
 
 
 
