@@ -10,7 +10,7 @@
 
 .cabeçalho {
     background-color: rgb(156, 8, 8);
-    color: white;
+    color: black;
     display:flex;
     justify-content: space-around;
     padding: 24px 0;
